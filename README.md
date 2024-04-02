@@ -42,3 +42,17 @@
 * TACOS_108.ipynb - one cell line
 * TACOS_109.ipynb - one cell line
 * TACOS_110.ipynb - one cell line
+
+## Part 6: DeepLncRNA
+No files.
+
+## Part 7: RF, GBM, SVM, MLP
+* RF_201.ipynb - random forest
+* GBM_201.ipynb - gradient boosting machine
+* SVM_201.ipynb - support vector machine
+* MLP_201.ipynb - multi-layer perceptron, alter train and test
+* MLP_202.ipynb - multi-layer perceptron, alter train or test
+
+## Part 8: Benchmark
+* Benchmark_101.ipynb - data
+* Benchmark_101.ipynb - model

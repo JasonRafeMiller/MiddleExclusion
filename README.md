@@ -11,4 +11,12 @@
 * [Ensembl](https://useast.ensembl.org/info/genome/genebuild/canonical.html) - define canonical
 * get_canonical_transcript_ids.45.sh - unix shell script
 
-
+## Part 3: RNAlight
+* [RNAlight](https://github.com/YangLab/RNAlight) - repo
+* [predict.tsv](https://github.com/YangLab/RNAlight/blob/main/Light_score_diverse_RNA/lncRNA_whole_genome/Whole_genome_lncRNA_predict_df.tsv) - predictions file
+* RNAlight_101.ipynb - analyze predictions
+* RNAlight_123.ipynb - lncATLAS mean CNRCI without middle exclusion
+* RNAlight_122.ipynb - grid search
+* RNAlight_125.ipynb - optimized params
+* [LightGBM](https://github.com/microsoft/LightGBM) - repo
+* RNAlight_127.ipynb - default params

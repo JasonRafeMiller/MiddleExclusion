@@ -20,3 +20,12 @@
 * RNAlight_125.ipynb - optimized params
 * [LightGBM](https://github.com/microsoft/LightGBM) - repo
 * RNAlight_127.ipynb - default params
+
+## Part 4: lncLocator2
+* [lncLocator2](https://github.com/Yang-J-LIN/lncLocator2) - repo
+* [lncLocator2](http://www.csbio.sjtu.edu.cn/bioinf/lncLocator2/) - webserver
+* [data](http://www.csbio.sjtu.edu.cn/bioinf/lncLocator2/Data.htm) - benchmark
+* LL2_H1_YY.ipynb - extreme genes run
+* LL2_H1_YY.log - extreme genes output
+* LL2_H1_middle.ipynb - middle genes run
+* LL2_H1_middle.csv - extreme genes output

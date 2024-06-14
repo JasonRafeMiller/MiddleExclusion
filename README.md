@@ -15,11 +15,15 @@
 * [RNAlight](https://github.com/YangLab/RNAlight) - repo
 * [predict.tsv](https://github.com/YangLab/RNAlight/blob/main/Light_score_diverse_RNA/lncRNA_whole_genome/Whole_genome_lncRNA_predict_df.tsv) - predictions file
 * RNAlight_101.ipynb - analyze predictions
-* RNAlight_123.ipynb - lncATLAS mean CNRCI without middle exclusion
-* RNAlight_122.ipynb - grid search
-* RNAlight_125.ipynb - optimized params
+* RNAlight_122.ipynb - grid search for LightGBM hyperparameters
+* RNAlight_123.ipynb - lncATLAS lncRNA data prep
+* RNAlight_133.ipynb - lncATLAS mRNA data prep
+* RNAlight_125.ipynb - examine RNAlight optimized params
 * [LightGBM](https://github.com/microsoft/LightGBM) - repo
-* RNAlight_127.ipynb - default params
+* RNAlight_127.ipynb - LightGBM, defaults, lncRNA, all or no middle exclusion
+* RNAlight_128.ipynb - LightGBM, defaults, lncRNA, train or test middle exclusion
+* RNAlight_137.ipynb - LightGBM, defaults, mRNA, all or no middle exclusion
+* RNAlight_138.ipynb - LightGBM, defaults, mRNA, train or test middle exclusion
 
 ## Part 4: lncLocator2
 * [lncLocator2](https://github.com/Yang-J-LIN/lncLocator2) - repo
@@ -32,16 +36,8 @@
 
 ## Part 5: TACOS
 * [TACOS](https://balalab-skku.org/TACOS) - webserver
-* TACOS_101.ipynb - one cell line
-* TACOS_102.ipynb - one cell line
-* TACOS_103.ipynb - one cell line
-* TACOS_104.ipynb - one cell line
-* TACOS_105.ipynb - one cell line
-* TACOS_106.ipynb - one cell line
-* TACOS_107.ipynb - one cell line
-* TACOS_108.ipynb - one cell line
-* TACOS_109.ipynb - one cell line
-* TACOS_110.ipynb - one cell line
+* TACOS_201.ipynb - sample genes for submission to server
+* TACOS_202.ipynb - compute accuracy from server results
 
 ## Part 6: DeepLncRNA
 No files.
@@ -50,8 +46,10 @@ No files.
 * RF_201.ipynb - random forest
 * GBM_201.ipynb - gradient boosting machine
 * SVM_201.ipynb - support vector machine
-* MLP_201.ipynb - multi-layer perceptron, alter train and test
-* MLP_202.ipynb - multi-layer perceptron, alter train or test
+* MLP_201.ipynb - multi-layer perceptron, lncRNA, all or no middle exclusion
+* MLP_201.ipynb - multi-layer perceptron, lncRNA, train or test middle exclusion
+* MLP_203.ipynb - multi-layer perceptron, mRNA, all or no middle exclusion
+* MLP_204.ipynb - multi-layer perceptron, mRNA, train or test middle exclusion
 
 ## Part 8: Benchmark
 * Benchmark_101.ipynb - data
